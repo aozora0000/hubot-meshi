@@ -8,7 +8,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/moqada/hubot-misawa.git"
+		"url": "https://github.com/moqada/hubot-meshi.git"
 	},
 	"keywords": [
 		"hubot",
@@ -20,7 +20,7 @@
 	"author": "aozora0000",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/moqada/hubot-misawa/issues"
+		"url": "https://github.com/aozora0000/hubot-meshi/issues"
 	},
-	"homepage": "https://github.com/moqada/hubot-misawa"
+	"homepage": "https://github.com/aozora0000/hubot-meshi"
 }
